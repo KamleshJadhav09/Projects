@@ -41,8 +41,6 @@ Customer Sentiment Overview (Positive, Neutral, Negative)
 
 Restaurant Performance KPIs
 
-(Include screenshots or links to your Power BI dashboard here!)
-
 🚀 Key Learnings
 
 Data cleaning and transformation in Excel
